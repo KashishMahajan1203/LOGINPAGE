@@ -69,7 +69,7 @@ npm start
 
 ## API Routes
 ### Auth Routes:
-- `POST /api/auth/login` - Authenticate user & return JWT
+- `POST /auth/login` - Authenticate user & return JWT
 
 ## Screenshots
 ![Login Page](https://github.com/KashishMahajan1203/LOGINPAGE/blob/main/Screenshot%202025-03-28%20190451.png)
